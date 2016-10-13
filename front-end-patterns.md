@@ -13,7 +13,8 @@ A reverse proxy taking requests from the Internet and forwarding them to servers
 ## DNS Servers
 ## Cache Servers
 
-### nginx
+## Appendix
+### [nginx](https://www.nginx.com/products/feature-matrix/)
 * A Reverse proxy and a load balancer. 
 * secures the servers running behing it from various attacks and vulnerables using arbitatary data. 
 * buffers responses for slow client.
@@ -22,6 +23,6 @@ A reverse proxy taking requests from the Internet and forwarding them to servers
 * support web sockets
 * terminates SSL/TLS endpoints
 
-HAProxy
+### [HAProxy](http://www.haproxy.org/)
 
 Phusion Passenger
