@@ -13,7 +13,14 @@ A reverse proxy taking requests from the Internet and forwarding them to servers
 
 # Use cases
 ## nodejs based web application 
-haproxy/nginx + phusion-passenger + nodejs 
+aws route53 with elastic IP + haproxy/nginx + phusion-passenger + nodejs
+
+* buffers the slow clients responses <explain what are slow clients here> 
+* provisioning, load balancing, monitoring and auto-scaling the nodejs servers 
+* nginx protects/secures the servers from Internet attacks
+
+![](https://pbs.twimg.com/media/CNiUkVdUAAAatdC.png)
+
 deployment on AWS
 
 ## Appendix
