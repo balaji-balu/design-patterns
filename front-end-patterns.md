@@ -12,6 +12,9 @@ A reverse proxy taking requests from the Internet and forwarding them to servers
 ## Cache Servers
 
 # Use cases
+## nodejs based web application 
+haproxy/nginx + phusion-passenger + nodejs 
+deployment on AWS
 
 ## Appendix
 ### [nginx](https://www.nginx.com/products/feature-matrix/)
