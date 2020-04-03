@@ -1,4 +1,4 @@
 # design-patterns
-Application Architecture Patterns
+1. [Application Architecture Patterns](front-end-patterns.md)
 
-[Serverless Patterns](serverless%20patterns.md)
+2. [Serverless Patterns](serverless%20patterns.md)
